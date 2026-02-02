@@ -1,2 +1,0 @@
-npm run dev
- in both frontend and backend folders
