@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-pastel-soft text-gray-800 font-sans antialiased;
+}
+
+html.dark body {
+  @apply bg-darkPalette-bg text-gray-100;
+}
+
+* {
+  box-sizing: border-box;
+}
